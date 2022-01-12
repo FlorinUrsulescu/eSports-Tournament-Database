@@ -34,7 +34,7 @@ players - a table containing information about the players
     country - what country is the player representing
     team_id - what team is the player part of referencing to the team_id column from teams table
    
-matches - a table containing all the matches except the final
+matches - a table containing information about all the matches except the final
 
     match_id - a unique identification number for each match
     tournament_day - during which day of the tournament the match took place
