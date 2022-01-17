@@ -73,5 +73,5 @@ Final - a table containing information about the final match
 
 
    Data Sources:
-     https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Champions
+     https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Champions ,
      https://www.thespike.gg/events/valorant-champions-2021/994
