@@ -70,3 +70,8 @@ Final - a table containing information about the final match
     final_map_5_score- the score of the fifth map played in final
     final_score - the score of the final representing the number of maps won by each team
     final_mvp - the player that has won Final MVP
+
+
+   Data Sources:
+   https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Champions
+   https://www.thespike.gg/events/valorant-champions-2021/994
